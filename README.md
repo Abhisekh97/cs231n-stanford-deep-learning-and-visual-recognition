@@ -1,0 +1,5 @@
+this post contains the following 
+  1. complete assignements without solution 
+  2. comlete assignments with solution
+  the zip file containes unsolved assignments so you can basically download them and practice on your own.
+  and if you are stuck somewhere you can check the solution 
